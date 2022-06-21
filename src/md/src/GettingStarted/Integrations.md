@@ -11,6 +11,7 @@ Users can reinforce ReportPortal with adding additional integrtions with:
 * [E-mail server](https://reportportal.io/docs/E-mail-server-integration)
 * [LDAP](https://reportportal.io/docs/LDAP-Auth-integration)
 * [Active Directory](https://reportportal.io/docs/Active-Directory-Auth-integration)
+* BTS Test
 
 If you want to integrate ReportPortal with these external systems, and you can not find a needed tab on the Project Settings, please check the section in documentation [Plugins](https://reportportal.io/docs/Plugins).
 
